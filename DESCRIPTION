@@ -1,0 +1,11 @@
+Package: FinancialFunctions
+Type: Package
+Title: Simple bond valuation functions in C++ used to demonstrate R <-> C++ via Rcpp
+Version: 1.0
+Date: 2024-12-13
+Author: Adam Gladstone
+Maintainer: Adam Gladstone <adam_gladstone@hotmail.com>
+Description: This package exposes simple bond valuation functions. The purpose of the package is to demonstrate the use of Rcpp for hooking up R and C++ code.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.13)
+LinkingTo: Rcpp

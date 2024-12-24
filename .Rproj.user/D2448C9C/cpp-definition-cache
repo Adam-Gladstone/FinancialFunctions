@@ -1,0 +1,72 @@
+[
+    {
+        "file": "D:/Development/Projects/R/FinancialFunctions/src/FinancialFunctions.cpp",
+        "file_last_write": 1734950988.0,
+        "definitions": [
+            {
+                "usr": "c:FinancialFunctions.cpp@aN@F@check_vector_sizes#&1$@N@std@S@vector>#d#$@N@std@S@allocator>#d#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "check_vector_sizes(const std::vector<double> &, const std::vector<double> &)",
+                "file": "D:/Development/Projects/R/FinancialFunctions/src/FinancialFunctions.cpp",
+                "line": 14,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@N@FinancialFunctions@N@Bonds@F@price#&1$@N@std@S@vector>#d#$@N@std@S@allocator>#d#S0_#1d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "price(const std::vector<double> &, const std::vector<double> &, const double)",
+                "file": "D:/Development/Projects/R/FinancialFunctions/src/FinancialFunctions.cpp",
+                "line": 33,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@N@FinancialFunctions@N@Bonds@F@ytm#&1$@N@std@S@vector>#d#$@N@std@S@allocator>#d#S0_#1d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "ytm(const std::vector<double> &, const std::vector<double> &, const double)",
+                "file": "D:/Development/Projects/R/FinancialFunctions/src/FinancialFunctions.cpp",
+                "line": 50,
+                "column": 12,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "D:/Development/Projects/R/FinancialFunctions/src/FinancialFunctions.h",
+        "file_last_write": 1734799502.0,
+        "definitions": [],
+        "hidden": false
+    },
+    {
+        "file": "D:/Development/Projects/R/FinancialFunctions/src/rcpp_functions.cpp",
+        "file_last_write": 1734881417.0,
+        "definitions": [
+            {
+                "usr": "c:@F@bond_price#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "bond_price(Rcpp::NumericVector, Rcpp::NumericVector, double)",
+                "file": "D:/Development/Projects/R/FinancialFunctions/src/rcpp_functions.cpp",
+                "line": 15,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@bond_ytm#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "bond_ytm(Rcpp::NumericVector, Rcpp::NumericVector, double)",
+                "file": "D:/Development/Projects/R/FinancialFunctions/src/rcpp_functions.cpp",
+                "line": 33,
+                "column": 8,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]

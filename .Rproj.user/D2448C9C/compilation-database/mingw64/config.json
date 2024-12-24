@@ -1,0 +1,24 @@
+{
+    "args": [
+        "-std=gnu++17",
+        "-ID:/R/R-4.4.1/include",
+        "-DNDEBUG",
+        "-ID:/R/R-4.4.1/library/Rcpp/include",
+        "-DEIGEN_DONT_VECTORIZE",
+        "-nostdinc",
+        "-ID:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/include/c++",
+        "-ID:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/include/c++/x86_64-w64-mingw32.static.posix",
+        "-ID:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/include/c++/backward",
+        "-ID:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/include",
+        "-ID:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/../../../../include",
+        "-ID:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/include-fixed",
+        "-include",
+        "D:/Development/Projects/R/FinancialFunctions/.Rproj.user/D2448C9C/compilation-database/mingw64/cpp-definitions.h"
+    ],
+    "pch": "Rcpp",
+    "is_cpp": true,
+    "hash": "1734885393",
+    "compiler": "9381606054783649534",
+    "rversion": "4.4.1",
+    "dbversion": 4
+}
