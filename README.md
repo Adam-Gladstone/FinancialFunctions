@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Adam-Gladstone/FinancialFunctions">
-    <img src="FinancialFunctions/Images/icons8-bonds-80.png" alt="logo" width="80" height="80">
+    <img src="Images/icons8-bonds-80.png" alt="logo" width="80" height="80">
   </a>
 
   <h3 align="center">FinancialFunctions</h3>
